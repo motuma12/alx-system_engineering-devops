@@ -1,1 +1,0 @@
-_These scripts are about shell basics_

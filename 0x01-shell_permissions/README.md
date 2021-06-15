@@ -1,1 +1,0 @@
-_Motuma shell permission scripts_
